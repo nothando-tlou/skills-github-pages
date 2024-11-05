@@ -3,7 +3,7 @@ description: "Documenting my journey in coding, technology, and innovative solut
 url: "https://yourdomain.com"
 baseurl: ""
 author: "Nothando Tlou"
-theme: minimal
+theme: minima
 markdown: kramdown
 paginate: 5
 
