@@ -1,1 +1,17 @@
-theme: minima
+title: Nothando Tlou's Tech Portfolio
+description: "Documenting my journey in coding, technology, and innovative solutions."
+url: "https://yourdomain.com"
+baseurl: ""
+author: "Nothando Tlou"
+theme: minimal
+markdown: kramdown
+paginate: 5
+
+# Social links
+linkedin: "https://www.linkedin.com/in/nothandotlou/"
+github: "https://github.com/nothandotlou"
+
+# Style and assets configuration
+sass:
+  style: compressed
+
