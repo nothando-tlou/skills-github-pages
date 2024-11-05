@@ -1,5 +1,5 @@
 ---
-title: Journey of a Tech Girl
+title: Nothando Tlou
 ---
 
 # Welcome to My Tech Journey 🚀
